@@ -14,7 +14,7 @@ Welcome to my Github page! I am Marlon and I am currently applying for Fullstack
 
 #### 🌱 Things I am currently working on: 
 - Finish my first pwa project 
-- Taking online courses about React and React Native and Python
+- Finish several project on React and React Native and Python
 - Launch KARGOdevs 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
