@@ -7,7 +7,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-d-jesus-6874271ab/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tsenane14@gmail.com)
 
-Welcome to my Github page! I am Marlon and I am currently applying for Fullstack React Position!  
+Welcome to my Github page! I am Marlon and I'm currently focusing on web and android development!
+I use daily:  .js, .html, .css.
 
 <img align="right" alt="img" src="https://github.com/paichato/paichato/blob/main/MARLON-3.jpg" width="50%" height="auto" />
 
@@ -22,6 +23,7 @@ Welcome to my Github page! I am Marlon and I am currently applying for Fullstack
 - Coding at least 6 hours a day
 - build 1 project per month
 - Master React
+
 
 #### :computer: Programming languages and tools: 
 <p>
