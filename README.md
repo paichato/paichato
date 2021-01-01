@@ -18,10 +18,10 @@ Welcome to my Github page! I am Marlon and I am currently applying for Fullstack
 - Launch KARGOdevs 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to boxing and gym 
+- Waking up earlier for boxing and gym 
 - Coding at least 6 hours a day
 - build 1 project per month
-- Improving my CV with some education apart from university
+- Master React
 
 #### :computer: Programming languages and tools: 
 <p>
