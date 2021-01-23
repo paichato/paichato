@@ -9,7 +9,7 @@
 
 Welcome to my Github page! I am Marlon and I'm currently focusing on web and android development!
 <br />
-I use daily:  .js, .html, .css.
+I use daily: .tsx .jsx .js, .html, .css.
 
 <img align="right" alt="img" src="https://github.com/paichato/paichato/blob/main/MARLON-3.jpg" width="50%" height="auto" />
 
