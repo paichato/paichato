@@ -22,7 +22,7 @@ I use daily: .tsx .jsx .js, .html, .css.
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier for boxing and gym 
 - Coding at least 6 hours a day
-- build 1 project per month
+- build 1 project per week
 - Master React
 
 
