@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-d-jesus-6874271ab/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tsenane14@gmail.com)
 
-Welcome to my Github page! I am Marlon and I'm currently focusing on web and android development!
+Welcome to my Github page! I am Marlon and I'm currently focusing on web and mobile development!
 <br />
 I use daily: .tsx .jsx .js, .html, .css.
 
@@ -15,15 +15,13 @@ I use daily: .tsx .jsx .js, .html, .css.
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my first pwa project 
-- Finish several project on React and React Native and Python
-- Launch KARGOdevs 🚀 *coming soon*
+- A fintech 
+- Finish several projects using GRAPHQL AWS
+- Do back-end related courses
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier for boxing and gym 
-- Coding at least 6 hours a day
-- build 1 project per week
-- Master React
+- 
 
 
 #### :computer: Programming languages and tools: 
