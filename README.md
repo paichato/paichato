@@ -21,7 +21,9 @@ I use daily: .tsx .jsx .js, .html, .css.
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier for boxing and gym 
-- 
+
+### Achievements
+- Most public commits in 2021 in Mozambique
 
 
 #### :computer: Programming languages and tools: 
