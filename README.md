@@ -16,7 +16,7 @@ I use daily: .tsx .jsx .js, .html, .css.
 
 #### 🌱 Things I am currently working on: 
 - A fintech 
-- Finish several projects using GRAPHQL AWS
+- Finish several projects using Prisma, Postgre
 - Do back-end related courses
 
 #### :muscle: Things I am challenging myself with:
